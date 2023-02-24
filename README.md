@@ -1,4 +1,6 @@
-# Sqlite3 Arduino library for ESP32
+# Sqlite3 Arduino library with SQLCipher for ESP32
+
+NOTE: This library is still under development and not available for use yet.  Please use https://github.com/siara-cc/esp32_arduino_sqlite3_lib
 
 This library enables access to SQLite database files from SPIFFS or SD Cards through ESP32 SoC.  Given below is a picture of a board that has a ready-made Micro SD slot (using SDMMC 4 bit mode - see example sqlite3_sdmmc):
 
